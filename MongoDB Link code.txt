@@ -1,0 +1,4 @@
+mongodb+srv://wicky:<password>@cluster0.c4d9i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+username - wicky
+password - wickydb
